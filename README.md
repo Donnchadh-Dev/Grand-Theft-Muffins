@@ -8,7 +8,7 @@ Cocos2d-x available at: http://www.cocos2d-x.org/download
 
 ## Authors
 
-David Morton, Donnchadh , Georgina Sheehan, Tiago Oliveira
+David Morton, Donnchadh Murphy, Georgina Sheehan, Tiago Oliveira
 
 ## License
 
